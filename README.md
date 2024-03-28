@@ -1,9 +1,6 @@
 # SalesforceMarchDayTwo
 
-Hello World!
+Hello Universe!
 
 New Text
 
-New Text
-
-New Change
